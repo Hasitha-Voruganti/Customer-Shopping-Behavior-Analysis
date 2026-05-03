@@ -1,6 +1,6 @@
 # 🛒 Customer Shopping Behavior Analysis
 
-![Customer Behavior Dashboard](./customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](./customer_behavior_dashboard.pbix)
 
 ---
 
